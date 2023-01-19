@@ -1,0 +1,16 @@
+mail.
+cpanel.
+whm.
+www.
+autodiscover.
+webdisk.
+test.
+ns.
+ns1.
+ns2.
+smtp.
+smtp2.
+admin.
+hostmaster.
+cpcontacts.
+cpcalendars.
